@@ -1,0 +1,11 @@
+.button{
+    position: relative;
+    left:550px;
+}
+.button1:hover{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.button1:active{
+    color: rgb(245, 19, 57);
+}
